@@ -2,7 +2,7 @@
 
 # asdf-liquibase [![Build](https://github.com/saliougaye/asdf-liquibase/actions/workflows/build.yml/badge.svg)](https://github.com/saliougaye/asdf-liquibase/actions/workflows/build.yml) [![Lint](https://github.com/saliougaye/asdf-liquibase/actions/workflows/lint.yml/badge.svg)](https://github.com/saliougaye/asdf-liquibase/actions/workflows/lint.yml)
 
-[liquibase](https://github.com/saliougaye/liquibase) plugin for the [asdf version manager](https://asdf-vm.com).
+[liquibase](https://github.com/liquibase/liquibase) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -15,10 +15,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`, and [POSIX utilities](https://pubs.opengroup.org/onlinepubs/9699919799/idx/utilities.html).
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
